@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "hybrid-heroes-ionic-starter",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}

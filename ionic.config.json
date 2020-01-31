@@ -1,5 +1,7 @@
 {
   "name": "hybrid-heroes-ionic-starter",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
